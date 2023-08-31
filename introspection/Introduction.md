@@ -10,7 +10,7 @@ My journey is an amalgamation of design and code. As a testament to this synergy
 
 ## A Canvas Beyond Code 🎬🎥
 My canvas extends beyond code to the realm of visual storytelling and creativity:
-- I'm no stranger to design tools like [Figma](https://www.figma.com/), [Canva](https://www.canva.com/), [Microsoft Designer](https://designer.microsoft.com/), [Dora](https://www.dora.run/), [Clipchamp](https://clipchamp.com/en/), and [Filmora](https://filmora.wondershare.com/). These tools empower me to weave visually captivating narratives.
+- I'm no stranger to design tools like [Figma](https://www.figma.com/), [Canva](https://www.canva.com/), [Microsoft Designer](https://designer.microsoft.com/), [Dora](https://www.dora.run/), [Clipchamp](https://clipchamp.com/en/), [Filmora](https://filmora.wondershare.com/) and many other tools of Adobe and other resources. These tools empower me to weave visually captivating narratives.
 - With a knack for visual communication, I've honed my skills in creating engaging content that transcends the boundaries of code.
 
 ## Leadership and Beyond 🚀
