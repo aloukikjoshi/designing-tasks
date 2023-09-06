@@ -1,3 +1,9 @@
-# Approach
+# 🎨 Poster Design Task
 
-This task included the internal tasks within itself where we have to design three posters for the different ocassians and events. I used Canva, GIMP and Microsoft Degigner to accomplish all the three of them.
+## Description
+This task involves creating three unique posters for various occasions and events. I utilized a combination of design tools, including Canva, GIMP, and Microsoft Designer, to complete these projects.
+
+## Tools Used
+- 🖌 Canva
+- 🖼 GIMP
+- 💻 Microsoft Designer
