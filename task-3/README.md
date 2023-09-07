@@ -23,3 +23,13 @@ For this task, I relied on the user-friendly and versatile software, [Microsoft 
 
 I maintained meticulous organization throughout the task by segregating all essential resources into separate folders. This streamlined workflow helped me efficiently access the required assets and maintain a structured project environment.
 
+## 📺 Result Videos
+
+Here are the links to the three result videos I created during this task:
+
+1. [task-3.1-Video Montage](https://clipchamp.com/watch/XAldM9IZdH2)
+2. [task-3.2-Captions & Text-Overlays](https://clipchamp.com/watch/eOyUdokmbT0)
+3. [task-3.3-Filers & Colour Corrections](https://clipchamp.com/watch/4XdWgEKWPw2)
+
+#### Don't forget to compare them to the original clips, present in the Used Files folder and the RAW VIDEO clip.
+
